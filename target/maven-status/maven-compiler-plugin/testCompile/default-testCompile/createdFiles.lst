@@ -1,0 +1,4 @@
+com\carepay\products\DeleteProduct.class
+com\carepay\products\UpdateProduct.class
+com\carepay\products\AddNewProduct.class
+com\carepay\products\GetProduct.class
