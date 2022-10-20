@@ -7,6 +7,7 @@
             <class name="com.carepay.products.AddNewProduct"></class>
             <class name="com.carepay.products.UpdateProduct"></class>
             <class name="com.carepay.products.DeleteProduct"></class>
+            <class name="com.carepay.products.GetAllCategories"></class>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

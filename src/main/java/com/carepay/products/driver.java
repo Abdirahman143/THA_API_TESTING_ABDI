@@ -15,8 +15,8 @@ public class driver {
         ProductRootClass root = new ProductRootClass(info);
 
         ObjectMapper mapper = new ObjectMapper();
-        String mydata = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(root);
-
-        System.out.println(mydata);
+        String product = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(root);
+// to see how the body looks like
+        System.out.println(product);
     }
 }
